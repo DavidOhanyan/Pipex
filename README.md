@@ -22,7 +22,6 @@ Where limiter is delimiter for here_doc, and other is the same as above.
 | Feature | Status |
 :-----------: | :-----------: |
 | Multiple commands | ✅ |
-| Return Value of Last Command | ✅  |
 | here_doc | ✅  |
 
 ## Algorithm
